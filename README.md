@@ -1,4 +1,4 @@
-# Exam-Portal-Using-Spring-Boot-And-Angular
+# Digital-Exam-Portal-Using-Spring-Boot-And-Angular
 ## Requirements
 * Spring Boot as Backend
 * Angular as Frontend
@@ -107,6 +107,6 @@
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/80576654/171620817-0c812770-5509-4555-b7c2-8ce67506177f.png)
 
-##
+## Thank You!!
 
 
